@@ -259,6 +259,7 @@ bash <(curl -s https://raw.githubusercontent.com/Yidadaa/ChatGPT-Next-Web/main/s
 ### Contributor
 
 [Contributors](https://github.com/Yidadaa/ChatGPT-Next-Web/graphs/contributors)
+thanks
 
 ## LICENSE
 
